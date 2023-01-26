@@ -27,5 +27,8 @@ using dotnetTraining;
 //b.DisplayA();
 //Console.WriteLine(b.value);
 
-B b = new B();
-B.UseA();
+// B b = new B();
+// B.UseA();
+
+Sample s = new Sample();
+s.ColorConsole();
